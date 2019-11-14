@@ -48,16 +48,16 @@ body {
 }
 
 .movie-card-title {
-  margin: 0 0 12px;
-  font-weight: 500;
   font-size: 24px;
+  font-weight: 500;
+  margin: 0 0 12px;
 }
 
 .movie-card-subtitle {
-  margin: 0 0 8px;
   color: #6c757d;
-  font-weight: 500;
   font-size: 16px;
+  font-weight: 500;
+  margin: 0 0 8px;
 }
 
 .movie-card-storyline {
@@ -75,9 +75,9 @@ body {
 }
 
 .movie-card-rating {
+  background-color: rgba(0,0,0,.03);
+  border-top: 1px solid rgba(0,0,0,.125);
   display: flex;
   justify-content: flex-end;
   padding: 12px 20px;
-  border-top: 1px solid rgba(0,0,0,.125);
-  background-color: rgba(0,0,0,.03);
 }
