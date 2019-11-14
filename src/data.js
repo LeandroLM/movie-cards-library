@@ -4,7 +4,7 @@ const movies = [
     subtitle: 'Final Fantasy XV',
     storyline: "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal.",
     rating: 4.5,
-    imagePath: "images/Kingsglaive_Final_Fantasy_XV.jpg",
+    imagePath: 'images/Kingsglaive_Final_Fantasy_XV.jpg',
   },
   {
     title: 'Final Fantasy',
@@ -32,7 +32,7 @@ const movies = [
     subtitle: 'Vendetta',
     storyline: 'Chris Redfield enlists the help of Leon S. Kennedy and Rebecca Chambers to stop a death merchant, with a vengeance, from spreading a deadly virus in New York.',
     rating: 4.2,
-    imagePath: "images/Resident_Evil_Vendetta.jpg",
+    imagePath: 'images/Resident_Evil_Vendetta.jpg',
   },
 ];
 
