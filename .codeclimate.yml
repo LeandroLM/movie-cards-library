@@ -44,6 +44,8 @@ plugins:
         enabled: false
       box-model:
           enabled: false
+  eslint:
+    enabled: true
   fixme:
     enabled: true
   nodesecurity:
