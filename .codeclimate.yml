@@ -31,8 +31,7 @@ checks:
     config:
       threshold: # language-specific defaults. an override will affect all languages.
 exclude_patterns:
-- "zoo.test.js"
-- "data.js"
+- "App.test.js"
 plugins:
   csslint:
     enabled: true
