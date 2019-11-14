@@ -40,3 +40,7 @@ plugins:
     enabled: true
   nodesecurity:
     enabled: true
+  shellcheck:
+    enabled: true
+  stylelint:
+    enabled: true
