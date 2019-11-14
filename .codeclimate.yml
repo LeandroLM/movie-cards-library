@@ -36,8 +36,6 @@ exclude_patterns:
 plugins:
   csslint:
     enabled: true
-  editorconfig:
-    enabled: true
   fixme:
     enabled: true
   nodesecurity:
