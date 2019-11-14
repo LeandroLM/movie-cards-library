@@ -112,9 +112,9 @@ describe('<MovieCard /> component', () => {
 });
 
 describe('<Rating />', () => {
-  it('renders the rating inside an element with the class `star-badge`', () => {
+  it('renders the rating inside an element with the class `rating`', () => {
     wrapper = shallow(<Rating rating={3} />)
 
-    expect(wrapper.find('.star-badge').text()).toEqual('3')
+    expect(wrapper.find('.rating').text()).toEqual('3')
   })
 })
