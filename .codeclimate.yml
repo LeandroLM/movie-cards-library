@@ -38,3 +38,7 @@ plugins:
     enabled: true
   editorconfig:
     enabled: true
+  fixme:
+    enabled: true
+  nodesecurity:
+    enabled: true
