@@ -46,6 +46,10 @@ plugins:
           enabled: false
   eslint:
     enabled: true
+    config:
+      extensions:
+        - .js
+        - .jsx
   fixme:
     enabled: true
   nodesecurity:
