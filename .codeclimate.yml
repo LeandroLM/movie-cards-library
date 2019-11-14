@@ -37,6 +37,13 @@ exclude_patterns:
 plugins:
   csslint:
     enabled: true
+    checks:
+      box-sizing:
+        enabled: false
+      fallback-colors:
+        enabled: false
+      box-model:
+          enabled: false
   fixme:
     enabled: true
   nodesecurity:
